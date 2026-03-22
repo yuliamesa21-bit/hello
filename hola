@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cédula de Ciudadanía</title>
+</head>
+<body>
+
+    <h2 style="text-align:center;">REPÚBLICA DE COLOMBIA</h2>
+    <h3 style="text-align:center;">CÉDULA DE CIUDADANÍA</h3>
+
+    <table border="1" width="400" align="center" cellpadding="10">
+        <tr>
+            <td rowspan="5" width="120" align="center">
+                <img src="foto.jpg" alt="Foto" width="100">
+            </td>
+            <td><b>Número:</b> 1234567890</td>
+        </tr>
+        <tr>
+            <td><b>Apellidos:</b> PÉREZ GÓMEZ</td>
+        </tr>
+        <tr>
+            <td><b>Nombres:</b> JUAN CARLOS</td>
+        </tr>
+        <tr>
+            <td><b>Sexo:</b> M</td>
+        </tr>
+        <tr>
+            <td><b>Fecha de nacimiento:</b> 01/01/2000</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Lugar de nacimiento:</b> Medellín - Antioquia</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Estatura:</b> 1.75 m</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>RH:</b> O+</td>
+        </tr>
+    </table>
+
+    <p style="text-align:center;">Firma del titular</p>
+
+</body>
+</html>
